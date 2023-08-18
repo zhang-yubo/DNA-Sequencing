@@ -1,1 +1,0 @@
-python BuildSpectrum.py && python StringReconstruction.py
